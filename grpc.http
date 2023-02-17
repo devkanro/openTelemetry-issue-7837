@@ -1,0 +1,6 @@
+POST localhost:8080/v1beta1/echo:echo
+Content-Type: application/json
+
+{
+  "content": "hello"
+}
